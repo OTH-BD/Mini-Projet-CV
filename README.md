@@ -1,6 +1,6 @@
 # 🔬 Projet de Recherche : Segmentation d'Images en Vision par Ordinateur
 
-**Réalisé par :** Othmane Boudali (عثمان البودالي)# 🔬 Projet de Recherche : Segmentation d'Images en Vision par Ordinateur
+**Réalisé par :** Othmane Boudali  🔬 Projet de Recherche : Segmentation d'Images en Vision par Ordinateur
 
 **Réalisé par :** Othmane Boudali 
 **Formation :** Master Ingénierie Informatique, Big Data & Cloud Computing
